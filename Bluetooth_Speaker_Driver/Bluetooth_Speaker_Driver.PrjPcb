@@ -83,6 +83,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NRBTBWKO
 
 [Document3]
+DocumentPath=LED_Indicator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GGUAGFMP
+
+[Document4]
 DocumentPath=..\..\nRF340\nRF5340-QKAA Reference Layout 1_2\Library\nRF5340_qkaa_config4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=..\..\nRF340\nRF5340-QKAA Reference Layout 1_2\Library\nRF5340_qkaa_config4.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MZOTTHPM
 
-[Document5]
+[Document6]
 DocumentPath=DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZWAIJRP
 
-[Document6]
+[Document7]
 DocumentPath=5v negative and positive channels.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFYXFMTA
 
-[Document7]
+[Document8]
 DocumentPath=Power_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZGASPOI
 
-[Document8]
+[Document9]
 DocumentPath=4th_Order_Linwitz-Riley_Low_Pass_Filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFJAPWIT
 
-[Document9]
+[Document10]
 DocumentPath=AMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNAHQRJG
 
-[Document10]
+[Document11]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URQRSVYK
 
-[Document11]
+[Document12]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVELSGIV
 
-[Document12]
+[Document13]
 DocumentPath=Stereo_L&R_TPA3138D2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUDMAPBF
 
-[Document13]
+[Document14]
 DocumentPath=Mono_Bass_TPA3138D2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
