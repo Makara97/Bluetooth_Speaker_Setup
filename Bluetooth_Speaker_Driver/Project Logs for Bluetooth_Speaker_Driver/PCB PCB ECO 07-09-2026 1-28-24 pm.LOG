@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetANT1_1 New Net Name=RF_A
+Change Net Name : Old Net Name=NetL3_1 New Net Name=RF_B
+Added Room: Name=U_LED_Indicator_?1
+Added Room: Name=U_LED_Indicator_?2
+Added Room: Name=U_LED_Indicator_?3
+Added Room: Name=U_nRF5340
