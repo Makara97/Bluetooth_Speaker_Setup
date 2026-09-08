@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC0201X03N New Footprint=CAPC0603X8N
+Change Component Footprint: Designator=C18 Old Footprint=CAPC0201X03N New Footprint=CAPC1206X18N
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0402X06N New Footprint=CAP0805X13N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0402X06N New Footprint=CAP0805X13N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC0402X06N New Footprint=CAP0805X13N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC0402X06N New Footprint=CAP0805X13N
+Change Component Footprint: Designator=C19 Old Footprint=CAPC0402X06N New Footprint=CAP0805X13N
+Change Component Comment: Designator=C15 Old Comment=0.7pF New Comment=NC
+Change Component Comment: Designator=L6 Old Comment=1.8nH New Comment=NC
+Change Component Kind : Designator=L6 Old Kind=Standard New Kind=Standard (No BOM)
