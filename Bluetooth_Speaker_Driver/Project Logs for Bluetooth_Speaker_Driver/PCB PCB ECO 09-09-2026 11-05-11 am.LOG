@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=PVCC Pin=C74-1
+Removed Pin From Net: NetName=PVCC Pin=C75-2
+Removed Pin From Net: NetName=PVCC Pin=C76-2
+Removed Pin From Net: NetName=PVCC Pin=C79-1
+Removed Pin From Net: NetName=PVCC Pin=C80-1
+Removed Pin From Net: NetName=PVCC Pin=C81-2
+Removed Pin From Net: NetName=PVCC Pin=C82-2
+Removed Pin From Net: NetName=PVCC Pin=C87-2
+Removed Pin From Net: NetName=PVCC Pin=FB3-2
+Removed Pin From Net: NetName=PVCC Pin=R39-1
+Removed Pin From Net: NetName=PVCC Pin=R41-1
+Removed Pin From Net: NetName=PVCC Pin=U11-7
+Removed Pin From Net: NetName=PVCC Pin=U11-15
+Removed Pin From Net: NetName=PVCC Pin=U11-16
+Removed Pin From Net: NetName=PVCC Pin=U11-27
+Removed Pin From Net: NetName=PVCC Pin=U11-28
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC0402X06N"; UniqueID = "\VNZHPKFY\AZSIITLN" ("\VNZHPKFY\AZSIITLN")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CL05B105KQ5NQNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\FLWEETDK" ("\VNZHPKFY\FLWEETDK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\GSIUKMYQ" ("\VNZHPKFY\GSIUKMYQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\KGMQZJVW" ("\VNZHPKFY\KGMQZJVW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\DLOMRYHH" ("\VNZHPKFY\DLOMRYHH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\BNNJEQGA" ("\VNZHPKFY\BNNJEQGA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "GRM033R71E222KA12D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC0402X06N"; UniqueID = "\VNZHPKFY\YBRPBMMB" ("\VNZHPKFY\YBRPBMMB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CL05B105KQ5NQNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\IHXMUZVT" ("\VNZHPKFY\IHXMUZVT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\SFOXWYEL" ("\VNZHPKFY\SFOXWYEL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\WZCGBGNF" ("\VNZHPKFY\WZCGBGNF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\BGGRQWMR" ("\VNZHPKFY\BGGRQWMR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC0402X06N"; UniqueID = "\VNZHPKFY\KNKRIACN" ("\VNZHPKFY\KNKRIACN")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CL05B105KQ5NQNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC0402X06N"; UniqueID = "\VNZHPKFY\HLBLJRLR" ("\VNZHPKFY\HLBLJRLR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CL05B105KQ5NQNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC0201X03N"; UniqueID = "\VNZHPKFY\UFVLFCOL" ("\VNZHPKFY\UFVLFCOL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CC0201KRX7R5BB104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAPC0402X06N"; UniqueID = "\VNZHPKFY\LCBPAIVF" ("\VNZHPKFY\LCBPAIVF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "element14 APAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CL05B105KQ5NQNC"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=PVCC New Net Name=PVCC_M
+Added Pin To Net: NetName=PVCC_S Pin=C74-1
+Added Pin To Net: NetName=PVCC_S Pin=C75-2
+Added Pin To Net: NetName=PVCC_S Pin=C76-2
+Added Pin To Net: NetName=PVCC_S Pin=C79-1
+Added Pin To Net: NetName=PVCC_S Pin=C80-1
+Added Pin To Net: NetName=PVCC_S Pin=C81-2
+Added Pin To Net: NetName=PVCC_S Pin=C82-2
+Added Pin To Net: NetName=PVCC_S Pin=C87-2
+Added Pin To Net: NetName=PVCC_S Pin=FB3-2
+Added Pin To Net: NetName=PVCC_S Pin=R39-1
+Added Pin To Net: NetName=PVCC_S Pin=R41-1
+Added Pin To Net: NetName=PVCC_S Pin=U11-7
+Added Pin To Net: NetName=PVCC_S Pin=U11-15
+Added Pin To Net: NetName=PVCC_S Pin=U11-16
+Added Pin To Net: NetName=PVCC_S Pin=U11-27
+Added Pin To Net: NetName=PVCC_S Pin=U11-28
+Added Net: Name=PVCC_S
+Added Room: Name=U_5v negative and positive channels
+Added Room: Name=U_AMP
+Added Room: Name=U_DAC
+Added Room: Name=U_LED_Indicator_?1
+Added Room: Name=U_LED_Indicator_?2
+Added Room: Name=U_LED_Indicator_?3
+Added Room: Name=U_LED_Indicator_?4
+Added Room: Name=U_LOW_PASS_FILTER
+Added Room: Name=U_nRF5340
+Added Room: Name=U_Power_amp_Bass
+Added Room: Name=U_Power_Section

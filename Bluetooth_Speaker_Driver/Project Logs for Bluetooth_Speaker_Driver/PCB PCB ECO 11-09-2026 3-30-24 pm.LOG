@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=P1.05 Pin=TP15-1
+Removed Pin From Net: NetName=P1.06 Pin=TP19-1
+Removed Pin From Net: NetName=P1.07 Pin=TP23-1
+Removed Pin From Net: NetName=P1.08 Pin=TP26-1
+Removed Pin From Net: NetName=P1.08 Pin=U2-13
+Removed Pin From Net: NetName=P1.07 Pin=U2-14
+Removed Pin From Net: NetName=P1.06 Pin=U2-15
+Removed Pin From Net: NetName=P1.05 Pin=U2-17
+Added Pin To Net: NetName=P1.00 Pin=TP15-1
+Added Pin To Net: NetName=P0.00 / XL1 Pin=TP19-1
+Added Pin To Net: NetName=P1.01 Pin=TP23-1
+Added Pin To Net: NetName=P0.01 / XL2 Pin=TP26-1
+Added Pin To Net: NetName=P0.01 / XL2 Pin=U2-13
+Added Pin To Net: NetName=P1.01 Pin=U2-14
+Added Pin To Net: NetName=P0.00 / XL1 Pin=U2-15
+Added Pin To Net: NetName=P1.00 Pin=U2-17

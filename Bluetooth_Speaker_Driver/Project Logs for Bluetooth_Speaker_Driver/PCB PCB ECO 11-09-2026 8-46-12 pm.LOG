@@ -1,0 +1,11 @@
+Change Room Name: Old Name=nRF5340 New Name=U_LOW_PASS_FILTER
+Added Room: Name=U_5v negative and positive channels
+Added Room: Name=U_AMP
+Added Room: Name=U_DAC
+Added Room: Name=U_LED_Indicator_?1
+Added Room: Name=U_LED_Indicator_?2
+Added Room: Name=U_LED_Indicator_?3
+Added Room: Name=U_LED_Indicator_?4
+Added Room: Name=U_nRF5340
+Added Room: Name=U_Power_amp_Bass
+Added Room: Name=U_Power_Section
