@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=P0.23 Pin=U1-AK20
+Removed Pin From Net: NetName=P1.04 Pin=U1-AL19
+Added Pin To Net: NetName=P1.04 Pin=U1-V2
+Added Pin To Net: NetName=P0.23 Pin=U1-Y2
+Change Net Name : Old Net Name=P0.23 New Net Name=P0.05 / AIN1
+Change Net Name : Old Net Name=P1.04 New Net Name=P0.04 / AIN0
+Added Pin To Net: NetName=P0.23 Pin=U1-AK20
+Added Net: Name=P0.23
+Added Pin To Net: NetName=P1.04 Pin=U1-AL19
+Added Net: Name=P1.04
