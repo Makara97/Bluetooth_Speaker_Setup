@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P0.04 / AIN0 Pin=U1-V2
+Removed Pin From Net: NetName=P0.05 / AIN1 Pin=U1-Y2
+Added Pin To Net: NetName=P0.05 / AIN1 Pin=U1-V2
+Added Pin To Net: NetName=P0.04 / AIN0 Pin=U1-Y2
+Change Net Name : Old Net Name=P0.04 / AIN0 New Net Name=P0.05 / AIN1
+Change Net Name : Old Net Name=P0.05 / AIN1 New Net Name=P0.04 / AIN0
