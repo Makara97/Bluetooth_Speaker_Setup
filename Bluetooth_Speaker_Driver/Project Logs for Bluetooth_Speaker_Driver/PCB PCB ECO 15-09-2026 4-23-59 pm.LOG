@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5v_TPS54202 Pin=TP37-1
+Removed Pin From Net: NetName=3.3V_nRF Pin=TP38-1
+Removed Pin From Net: NetName=12V Pin=TP39-1
+Removed Pin From Net: NetName=GND Pin=TP40-1
+Removed Pin From Net: NetName=3.3V_PCM Pin=TP41-1
+Removed Member From Class: ClassName=U_Power_Section Member=TP37
+Removed Member From Class: ClassName=U_Power_Section Member=TP38
+Removed Member From Class: ClassName=U_Power_Section Member=TP39
+Removed Member From Class: ClassName=U_Power_Section Member=TP40
+Removed Member From Class: ClassName=U_Power_Section Member=TP41

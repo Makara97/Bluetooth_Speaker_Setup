@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=P0.22 Pin=TP1-1
+Removed Pin From Net: NetName=P0.20 Pin=TP2-1
+Removed Pin From Net: NetName=P0.21 Pin=TP3-1
+Removed Pin From Net: NetName=P0.24 Pin=TP4-1
+Removed Pin From Net: NetName=P0.19 Pin=TP5-1
+Removed Pin From Net: NetName=SWDIO Pin=TP6-1
+Removed Pin From Net: NetName=P0.18 / QSPI_CS Pin=TP7-1
+Removed Pin From Net: NetName=SWDCLK Pin=TP8-1
+Removed Pin From Net: NetName=P0.25 / AIN4 Pin=TP9-1
+Removed Pin From Net: NetName=RESET Pin=TP10-1
+Removed Pin From Net: NetName=P0.17 / QSPI_CLK Pin=TP11-1
+Removed Pin From Net: NetName=P0.26 / AIN5 Pin=TP12-1
+Removed Pin From Net: NetName=P0.16 / QSPI3 Pin=TP13-1
+Removed Pin From Net: NetName=P0.13 / QSPI0 Pin=TP14-1
+Removed Pin From Net: NetName=P1.00 Pin=TP15-1
+Removed Pin From Net: NetName=P0.15 / QSPI2 Pin=TP16-1
+Removed Pin From Net: NetName=VBUS Pin=TP17-1
+Removed Pin From Net: NetName=P0.12 / TRACECLK Pin=TP18-1
+Removed Pin From Net: NetName=P0.00 / XL1 Pin=TP19-1
+Removed Pin From Net: NetName=P0.27 / AIN6 Pin=TP20-1
+Removed Pin From Net: NetName=D_N Pin=TP21-1
+Removed Pin From Net: NetName=P0.11 / TRACEDATA0 Pin=TP22-1
+Removed Pin From Net: NetName=P1.01 Pin=TP23-1
+Removed Pin From Net: NetName=D_P Pin=TP24-1
+Removed Pin From Net: NetName=P0.10 / TRACEDATA1 Pin=TP25-1
+Removed Pin From Net: NetName=P0.01 / XL2 Pin=TP26-1
+Removed Pin From Net: NetName=P0.09 / TRACEDATA2 Pin=TP27-1
+Removed Pin From Net: NetName=P0.05 / AIN1 Pin=TP28-1
+Removed Pin From Net: NetName=P0.08 / TRACEDATA3 Pin=TP29-1
+Removed Pin From Net: NetName=P0.04 / AIN0 Pin=TP30-1
+Removed Pin From Net: NetName=NetC22_2 Pin=TP31-1
+Removed Pin From Net: NetName=NetC29_2 Pin=TP32-1
+Removed Pin From Net: NetName=+6V Pin=TP33-1
+Removed Pin From Net: NetName=-6V Pin=TP34-1
+Removed Pin From Net: NetName=-5V_RC4580 Pin=TP35-1
+Removed Pin From Net: NetName=+5V_RC4580 Pin=TP36-1
+Removed Pin From Net: NetName=LINP Pin=TP42-1
+Removed Pin From Net: NetName=OUTPL Pin=TP43-1
+Removed Pin From Net: NetName=RINP Pin=TP44-1
+Removed Pin From Net: NetName=OUTNL Pin=TP45-1
+Removed Pin From Net: NetName=OUTNR Pin=TP46-1
+Removed Pin From Net: NetName=OUTPR Pin=TP47-1
+Removed Pin From Net: NetName=WOOFER_BF_+ Pin=TP48-1
+Removed Pin From Net: NetName=WOOFER_BF_- Pin=TP49-1
+Removed Pin From Net: NetName=SUB_IN Pin=TP50-1
+Removed Member From Class: ClassName=U_nRF5340 Member=TP1
+Removed Member From Class: ClassName=U_nRF5340 Member=TP2
+Removed Member From Class: ClassName=U_nRF5340 Member=TP3
+Removed Member From Class: ClassName=U_nRF5340 Member=TP4
+Removed Member From Class: ClassName=U_nRF5340 Member=TP5
+Removed Member From Class: ClassName=U_nRF5340 Member=TP6
+Removed Member From Class: ClassName=U_nRF5340 Member=TP7
+Removed Member From Class: ClassName=U_nRF5340 Member=TP8
+Removed Member From Class: ClassName=U_nRF5340 Member=TP9
+Removed Member From Class: ClassName=U_nRF5340 Member=TP10
+Removed Member From Class: ClassName=U_nRF5340 Member=TP11
+Removed Member From Class: ClassName=U_nRF5340 Member=TP12
+Removed Member From Class: ClassName=U_nRF5340 Member=TP13
+Removed Member From Class: ClassName=U_nRF5340 Member=TP14
+Removed Member From Class: ClassName=U_nRF5340 Member=TP15
+Removed Member From Class: ClassName=U_nRF5340 Member=TP16
+Removed Member From Class: ClassName=U_nRF5340 Member=TP17
+Removed Member From Class: ClassName=U_nRF5340 Member=TP18
+Removed Member From Class: ClassName=U_nRF5340 Member=TP19
+Removed Member From Class: ClassName=U_nRF5340 Member=TP20
+Removed Member From Class: ClassName=U_nRF5340 Member=TP21
+Removed Member From Class: ClassName=U_nRF5340 Member=TP22
+Removed Member From Class: ClassName=U_nRF5340 Member=TP23
+Removed Member From Class: ClassName=U_nRF5340 Member=TP24
+Removed Member From Class: ClassName=U_nRF5340 Member=TP25
+Removed Member From Class: ClassName=U_nRF5340 Member=TP26
+Removed Member From Class: ClassName=U_nRF5340 Member=TP27
+Removed Member From Class: ClassName=U_nRF5340 Member=TP28
+Removed Member From Class: ClassName=U_nRF5340 Member=TP29
+Removed Member From Class: ClassName=U_nRF5340 Member=TP30
+Removed Member From Class: ClassName=U_DAC Member=TP31
+Removed Member From Class: ClassName=U_DAC Member=TP32
+Removed Member From Class: ClassName=U_5v negative and positive channels Member=TP33
+Removed Member From Class: ClassName=U_5v negative and positive channels Member=TP34
+Removed Member From Class: ClassName=U_5v negative and positive channels Member=TP35
+Removed Member From Class: ClassName=U_5v negative and positive channels Member=TP36
+Removed Member From Class: ClassName=U_Power_amp_Stereo_L&R Member=TP42
+Removed Member From Class: ClassName=U_Power_amp_Stereo_L&R Member=TP43
+Removed Member From Class: ClassName=U_Power_amp_Stereo_L&R Member=TP44
+Removed Member From Class: ClassName=U_Power_amp_Stereo_L&R Member=TP45
+Removed Member From Class: ClassName=U_Power_amp_Stereo_L&R Member=TP46
+Removed Member From Class: ClassName=U_Power_amp_Stereo_L&R Member=TP47
+Removed Member From Class: ClassName=U_Power_amp_Bass Member=TP48
+Removed Member From Class: ClassName=U_Power_amp_Bass Member=TP49
+Removed Member From Class: ClassName=U_Power_amp_Bass Member=TP50
