@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [Fabrication Variant] of PCB Document [PCB.PcbDoc]
+   Generated File[Assembly Testpoint Report for PCB.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:59:35 pm On 16/09/2026

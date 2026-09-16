@@ -303,6 +303,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVQTRCRR
 
+[Document16]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=F4BF6A4E-F601-4755-B148-7CBA658267EE
 Description=Fabrication Variant
@@ -312,6 +329,158 @@ VariationCount=2
 Variation1=Designator=L?|UniqueId=\VNZHPKFY\FXCXHXFO|Kind=1|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\VNZHPKFY\OZZKJAKB|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\Test Points\Assembly Testpoint Report for PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\BOM\Bill of Materials-Bluetooth_Speaker_Driver(Fabrication Variant).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\Test Points\Fabrication Testpoint Report for PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\vdd\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ExportSTEP\PCB(Fabrication Variant).step
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\IPC2581\PCB.cvg
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\GerberX2\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\GerberX2\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB(Fabrication Variant).txt
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\..\..\..\AppData\Local\Temp\QjzA7EB.xls
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Bluetooth_Speaker_Driver\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Engineer
+Value=Kavindu Makaranda
 
 [Configuration1]
 Name=Sources
